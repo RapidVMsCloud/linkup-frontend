@@ -1,8 +1,6 @@
+import Login from "../components/login";
 
-
-export default function login() {
-    return (
-      <dev><h1>register</h1></dev>
-    );
+export default function Page() {
+    return <Login></Login>
   }
   

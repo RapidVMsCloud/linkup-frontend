@@ -1,5 +1,3 @@
-
-
 export default function Nav() {
     return (
       <dev><header class="text-gray-600 body-font">
